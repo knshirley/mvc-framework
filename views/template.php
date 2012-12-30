@@ -11,7 +11,7 @@
 
 <body>
 
-<?php echo $data['message']; ?>   
+<?php require($file); ?> 
 
 </body>
 </html>
